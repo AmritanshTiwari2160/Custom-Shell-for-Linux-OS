@@ -7,8 +7,9 @@ This is a custom-built Linux shell developed using **C**, **Lex**, and **Yacc**,
 -  **Modular command structure** (each command handled in separate folders)
 -  **Lex & Yacc based tokenization and parsing**
 -  Custom implementation of shell built-ins (e.g., `ls`, `touch`, `cd`, `rm`, etc.)
--  Optional **GUI interface** for interacting with the shell visually
+-  **GUI interface** for interacting with the shell visually
 -  **Easily extendable architecture for adding new commands**
+-  **Can be integrated with the built-in Linux shell**
 
 ## Project Structure
 
